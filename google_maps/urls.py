@@ -1,4 +1,4 @@
-"""did_django_google_maps_api project URL Configuration
+"""google_maps project URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.1/topics/http/urls/

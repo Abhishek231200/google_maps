@@ -1,5 +1,5 @@
 """
-ASGI config for did_django_google_maps_api project.
+ASGI config for google_maps project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'did_django_google_maps_api.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'google_maps.settings')
 
 application = get_asgi_application()
